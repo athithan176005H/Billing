@@ -12,5 +12,6 @@ if(Bill>100):
     print ("Discounted_Amount: "),Final_Amount
 else:
     print("Final_Amount: "),Bill
+print ("thankyou come again")
 
 
